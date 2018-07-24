@@ -1,0 +1,12 @@
+## Interface: 80000
+## Title: WIM - ElvUI Skin
+## Version: @project-version@
+## Author: fuba
+## Original Author: Divico / Alleria EU
+## Notes: A simple skin matching the Design of Elvui
+## CurseLink: https://mods.curse.com/members/q3fuba
+## Dependencies: WIM, ElvUI
+
+# Core files
+skin.xml
+skin.lua

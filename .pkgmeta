@@ -1,0 +1,6 @@
+package-as: WIM_ElvUI_Skin
+
+ignore:
+   - README.md
+
+enable-nolib-creation: no
