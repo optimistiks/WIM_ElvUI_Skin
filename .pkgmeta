@@ -2,5 +2,6 @@ package-as: WIM_ElvUI_Skin
 
 ignore:
    - README.md
+   - .gitignore
 
 enable-nolib-creation: no
