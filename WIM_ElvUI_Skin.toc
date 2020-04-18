@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 11302
 ## Title: WIM - ElvUI Skin
 ## Version: @project-version@
 ## Author: fuba
